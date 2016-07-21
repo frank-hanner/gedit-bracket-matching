@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=bracket-matching
+IAge=3
+Name=Bracket Matching
+Description=Highlight a bracket ({[]}) and press Ctrl-M to go to the matching open or close bracket.
+Authors=Frank Hanner
+Website=https://github.com/frank-hanner
